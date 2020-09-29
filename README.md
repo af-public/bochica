@@ -1,2 +1,2 @@
 # bochica
-messing around on the open library, trying lo learn something!
+messing around on the open library, trying to learn something!
